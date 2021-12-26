@@ -5,6 +5,7 @@ Stock Analysis with EXCEL and VBA.
 The purpose of this analysis is to analyze the data from the Stock Market dataset with VBA code to loop throughout the data and return. The request is from a client named Steve. We are calculating the volume and the return value for stock for the stock tickers of 2017 and 2018. After analyzing we will be able to advise Steve which stock is the best to invest in. In order to make the code more efficient we will edit or refactor the code and cut down the processing time.  
 ## Results about analysis of the stock: 
 The analysis of the stocks in 2017 and 2018 shows the following results.
+
 <img width="174" alt="All Stocks 2017" src="https://user-images.githubusercontent.com/95591222/147421692-e4c35a47-1c19-449b-b3d7-be0f43ddf096.png">
 <img width="170" alt="All Stocks 2018" src="https://user-images.githubusercontent.com/95591222/147421694-3eb9d1ed-a013-4490-b35c-f7a71f0edc54.png">
  
